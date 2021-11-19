@@ -21,12 +21,15 @@ topics:
 
 | Product             | SKU      | Unit of measure | Price |
 | ------------------- | -------- | --------------- | ----- |
-| Codespaces Compute  |  2 core  | 1 hour          | $0.18 |
-|                     |  4 core  | 1 hour          | $0.36 |
+| Codespaces Compute  |  2 core  | 1 hour          | $0.20 |
+|                     |  4 core  | 3 hour.         | $1.50 |
 |                     |  8 core  | 1 hour          | $0.72 |
 |                     |  16 core | 1 hour          | $1.44 |
 |                     |  32 core | 1 hour          | $2.88 |
-| Codespaces Storage  |  Storage | 1 GB-month      | $0.07 |
+| Codespaces Storage  |  Storage | 1 GB-month      | $0.10 
+
+
+|
 
 ## About billing for {% data variables.product.prodname_codespaces %}
 
